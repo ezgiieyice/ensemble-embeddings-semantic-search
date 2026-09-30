@@ -1,0 +1,11 @@
+torch
+transformers
+sentence-transformers
+FlagEmbedding
+datasets
+einops
+scikit-learn
+pandas
+numpy
+matplotlib
+jupyter
